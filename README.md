@@ -270,11 +270,3 @@ cd frontend && npm run test
 | [📄 Final Project Report](SpendWise_FullStack_Report.pdf) | Complete Full Stack Development course report |
 
 ---
-
-<div align="center">
-
-### Built with ❤️ by Balaji Mallepalli
-
-*Full Stack Development Course Project — April 2026*
-
-</div>
